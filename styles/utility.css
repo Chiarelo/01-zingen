@@ -22,6 +22,18 @@
   border: solid purple;
 }
 
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
 .even-columns {
   display: grid;
   gap: 1rem;
