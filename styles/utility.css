@@ -19,7 +19,6 @@
 
   max-width: min(var(--max-width), 100% - var(--rem-lg) * 2);
   margin-inline: auto;
-  border: solid purple;
 }
 
 .flex {
@@ -32,6 +31,14 @@
 
 .gap-1 {
   gap: 1rem;
+}
+
+.gap-1\.5 {
+  gap: 1.5rem;
+}
+
+.align-center {
+  align-items: center;
 }
 
 .even-columns {
