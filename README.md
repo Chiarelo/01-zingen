@@ -25,16 +25,16 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/54f382cc-530e-423e-b127-7b3435a08dbb" width="800px">
+  <img alt="Projeto para PC" src="" width="800px">
 </p>
 
 <p align="center">📱 <b>Para Celular:</b></p>
 <p align="center">
-  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/8fec4a09-6a61-414f-a183-e1c030037d7c" width="300px">
+  <img alt="Projeto para Celular" src="" width="300px">
 </p>
 
 <p align="center">
-  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/08fafa9e-b680-440c-9c22-ccf855aee1e6" width="300px">
+  <img alt="Projeto para Celular" src="" width="300px">
 </p>
 
 ---
@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="https://projeto-zingen.vercel.app/" target="_blank">Clique Aqui</a>.
+Para acessar o projeto <a href="" target="_blank">Clique Aqui</a>.
 
 ## 📝 Licença
 
