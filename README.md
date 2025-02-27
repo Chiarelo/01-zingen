@@ -25,7 +25,8 @@
 
 <p align="center">💻 <b>Para PC:</b></p>
 <p align="center">
-  <img alt="Projeto para PC" src="" width="800px">
+  <img alt="Projeto para PC" src="https://github.com/user-attachments/assets/3e2a0ae7-aa8e-406d-941b-4d762c2e4c3b" width="800px">
+  
 </p>
 
 <p align="center">📱 <b>Para Celular:</b></p>
