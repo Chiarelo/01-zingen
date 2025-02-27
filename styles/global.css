@@ -46,11 +46,14 @@ html {
   font-weight: var(--fw-base);
   line-height: 1.6;
   color: var(--text-color-secondary);
+
+  scroll-behavior: smooth;
   overflow-x: hidden;
 }
 
 body {
   background-color: var(--bg-color);
+  overflow: hidden;
 }
 
 h1,
