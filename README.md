@@ -31,11 +31,11 @@
 
 <p align="center">📱 <b>Para Celular:</b></p>
 <p align="center">
-  <img alt="Projeto para Celular" src="" width="300px">
+  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/8fec4a09-6a61-414f-a183-e1c030037d7c" width="300px">
 </p>
 
 <p align="center">
-  <img alt="Projeto para Celular" src="" width="300px">
+  <img alt="Projeto para Celular" src="https://github.com/user-attachments/assets/08fafa9e-b680-440c-9c22-ccf855aee1e6" width="300px">
 </p>
 
 ---
