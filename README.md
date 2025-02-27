@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="" target="_blank">Clique Aqui</a>.
+Para acessar o projeto <a href="https://01-zingen.vercel.app/" target="_blank">Clique Aqui</a>.
 
 ## 📝 Licença
 
